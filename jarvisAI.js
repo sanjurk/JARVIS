@@ -32,6 +32,7 @@ fridayComs.push("open instagram");
 fridayComs.push("open my instagram profile");
 fridayComs.push("open github");
 fridayComs.push("open my github profile");
+fridayComs.push("open automation");
 
 // youtube window
 let ytbWindow;
@@ -701,4 +702,5 @@ async function getCategoryNews(category){
     });
     readOut(a)
   })
+
 }
