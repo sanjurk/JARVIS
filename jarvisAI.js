@@ -32,7 +32,7 @@ fridayComs.push("open instagram");
 fridayComs.push("open my instagram profile");
 fridayComs.push("open github");
 fridayComs.push("open my github profile");
-fridayComs.push("open automation");
+fridayComs.push("open auto");
 
 // youtube window
 let ytbWindow;
@@ -704,3 +704,4 @@ async function getCategoryNews(category){
   })
 
 }
+
